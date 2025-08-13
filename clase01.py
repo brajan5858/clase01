@@ -1,4 +1,4 @@
-print("hola mundo de bierda")
+print("hola mi mundo")
 #variables
 edad = 25 #entero
 altura = 1.75 #flotante
@@ -26,4 +26,5 @@ print(f"mi nombre es {nombre}") #cadenas
 print(f"mi eda es: {edad}"  )
 print(f"mi altura es:{altura}")
 print(f"estoy vivo {bandera}")
+
 
